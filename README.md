@@ -1,10 +1,10 @@
-# Global CO2 Emissions Modeling: Structural & Demographic Drivers (1960–2020)
+# CO2 Emission by Countries Year Wise (1750–2020)
 
 ## 1. Environmental Problem
 Rising anthropogenic carbon dioxide ($CO_2$) emissions are the primary driver of global climate change and temperature anomalies. Understanding the underlying structural, demographic, and geographic factors that govern national emission levels is critical for designing equitable, long-term decarbonization policies rather than relying solely on historical emission trends.
 
 ## 2. Dataset Source
-- **Dataset:** [CO2 Emission by Countries Year Wise (1750–2022) — Kaggle](https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022)
+- **Dataset:** [CO2 Emission by Countries Year Wise (1750–2020) — Kaggle](https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022)
 - **Scope & Features:** Filtered to the modern industrial era (`1960–2020`), encompassing national records across `Year`, `Population(2020)`, `Area`, `% of World`, `Density(km2)`, and the engineered demographic pressure index `Pop_Area_Ratio`.
 
 ## 3. Research Questions
